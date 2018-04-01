@@ -6,7 +6,7 @@
   "author": "Liam Goodacre",
   "license": "MIT",
   "dependencies": {
-    "gen-json-parser": "1.1.5",
+    "gen-json-parser": "git://github.com/dperetti/gen-json-parser",
     "immutable": "3.6.2"
   },
   "devDependencies": {
